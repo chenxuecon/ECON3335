@@ -1,27 +1,15 @@
-# Minimal Mistakes remote theme starter
+# Urban and Regional Economics
+
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-Contains basic configuration to get you a site with:
+Course Description:
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+This course will introduce you to core issues and recent advances in urban economics. The first
+part develops canonical models of urban economics to explain spatial regularities within and
+across cities, and presents the market forces that cause cities to grow. Then, topics such as hous-
+ing, neighborhood effects, congestion, local government, segregation, violence, and disease are
+analyzed. Along with classes, lab sessions expose you to practical tools in data science such as
+data cleaning, visualization, and mapping with the use of programming language. By the end of
+the semester, the student will have a good understanding of the economic approach to cities and
+will be comfortable using R.
