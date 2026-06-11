@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Associate Professor of Economics at SEU"
   location         : "Austin,TX"
-  email            : cxu@stedwards.edu
+#  email            : cxu@stedwards.edu
 #  github           : chenxuecon
   links:
     - label: "Website"
