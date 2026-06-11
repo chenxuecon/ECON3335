@@ -1,6 +1,8 @@
 main:
   - title: "Syllabus"
     url: https://github.com/chenxuecon/ECON3335/blob/master/syllabus.pdf
+  - title: "Lecture Notes"
+    url:
   - title: "Posts"
     url: /posts/
   - title: "Categories"
