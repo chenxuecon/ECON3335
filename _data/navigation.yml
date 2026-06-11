@@ -1,4 +1,6 @@
 main:
+  - title: "Syllabus"
+    url: /ECON3335/syllabus.pdf
   - title: "Posts"
     url: /posts/
   - title: "Categories"
