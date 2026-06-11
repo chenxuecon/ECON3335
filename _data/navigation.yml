@@ -5,7 +5,7 @@ main:
     url: /posts/
   - title: "Assignment"
     url: /categories/
-  - title: "tags"
-    url: /tags/
+  - title: "Lecture"
+    url: /ECON3335/lectures/
   - title: "Course Project"
     url: /about/
